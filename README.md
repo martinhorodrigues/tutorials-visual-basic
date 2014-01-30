@@ -1,4 +1,4 @@
 visual-basic-snippets
 =====================
 
-Visual Basics Snippets
+Visual Basic Snippets
